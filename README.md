@@ -3,6 +3,14 @@ This project focuses on driver distraction activities detection via images, whic
 
 <img src="images/description.PNG">
 
+<ul>
+  <li> Pip Package : https://pypi.org/project/Distracted-Driver-Detection/</li>
+  <li> WebSite     : https://distracteddriver-detection-app.herokuapp.com/</li>
+  <li> Android-app : [app-debug.zip](https://github.com/MohamedSebaie/Distracted-Driver-Detection-Project-TechnoColabs/files/8009103/app-debug.zip)
+</li>
+  
+</ul>  
+
 https://user-images.githubusercontent.com/45875057/152063140-60343910-ab51-4a8a-b42a-a2f7a50f0320.mp4
 
 
