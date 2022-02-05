@@ -1,7 +1,7 @@
 # Computer-Vision-Distracted-Drivers-Detection
 This project focuses on driver distraction activities detection via images, which is useful for vehicle accident precaution. We aim to build a high-accuracy classifiers to distinguish whether drivers is driving safely or experiencing a type of distraction activity.
 
-
+<img src="images/description.PNG">
 
 https://user-images.githubusercontent.com/45875057/152063140-60343910-ab51-4a8a-b42a-a2f7a50f0320.mp4
 
@@ -149,3 +149,12 @@ plt.imshow(mpimg.imread(imgPath));
 # Plot Batch of Test Images from directory with Detection
 DistractedDriverDetection_Utils.tfliteModel_Plot(test_img_dir,nImages=4)
 ```
+
+
+
+
+## Project Team Members
+
+1. Abdullah Abdelhakeem
+2. Mohamed Sebaie
+3. Mahmoud Salama
