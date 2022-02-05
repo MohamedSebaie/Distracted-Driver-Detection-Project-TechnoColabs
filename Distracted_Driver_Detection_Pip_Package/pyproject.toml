@@ -1,0 +1,20 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    
+    "ipython>=7.30.1",
+    "moviepy>=1.0.3",
+    "gdown",
+    "numpy>=1.19.5",
+    "pandas>=1.1.5",
+    "Pillow>=7.1.2",
+    "cycler>=0.10.0",
+    "matplotlib>=3.2.2",
+    "tensorflow>=2.7.0",
+    "keras>=2.7.0",
+    "protobuf>=3.19.1",
+    "torch>=1.10.1",
+    "torchvision>=0.11.2"
+]
+build-backend = "setuptools.build_meta"
